@@ -10,6 +10,7 @@ namespace CA5
     {
         static void Main(string[] args)
         {
+            //linia 1
         }
     }
 }
